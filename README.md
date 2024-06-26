@@ -1,0 +1,3 @@
+Explicação do Sistema
+##
+O sistema lê os dados do contrato (número do contrato, data do contrato e valor total) e o número de meses para parcelamento. Em seguida, gera registros das parcelas a serem pagas. Para cada parcela, calcula-se o valor base, aplicando juros simples de 1% ao mês e uma taxa de pagamento de 2%. A primeira parcela é gerada um mês após a data do contrato, a segunda parcela dois meses após, e assim por diante. A data e o valor de cada parcela são então exibidos na tela. O sistema facilita a automatização do processamento de contratos e o cálculo das parcelas de forma eficiente.
